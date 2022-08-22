@@ -3,7 +3,7 @@
 #### Instructions
 1. Cloner tout d'abord le projet
 
-`git clone https://github.com/fouzo09/Deploy-Nodejs-Mongo-In-K8S.git .`
+`git clone https://github.com/fouzo09/Deploy-Nodejs-Mongo-In-K8S.git`
 
 3. Placer vous dans le dossier du projet
 
